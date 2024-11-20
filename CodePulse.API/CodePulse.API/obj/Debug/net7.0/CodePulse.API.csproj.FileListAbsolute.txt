@@ -1,0 +1,166 @@
+C:\CodePulse\API\CodePulse.API\CodePulse.API\bin\Debug\net7.0\appsettings.Development.json
+C:\CodePulse\API\CodePulse.API\CodePulse.API\bin\Debug\net7.0\appsettings.json
+C:\CodePulse\API\CodePulse.API\CodePulse.API\bin\Debug\net7.0\CodePulse.API.exe
+C:\CodePulse\API\CodePulse.API\CodePulse.API\bin\Debug\net7.0\CodePulse.API.deps.json
+C:\CodePulse\API\CodePulse.API\CodePulse.API\bin\Debug\net7.0\CodePulse.API.runtimeconfig.json
+C:\CodePulse\API\CodePulse.API\CodePulse.API\bin\Debug\net7.0\CodePulse.API.dll
+C:\CodePulse\API\CodePulse.API\CodePulse.API\bin\Debug\net7.0\CodePulse.API.pdb
+C:\CodePulse\API\CodePulse.API\CodePulse.API\bin\Debug\net7.0\Azure.Core.dll
+C:\CodePulse\API\CodePulse.API\CodePulse.API\bin\Debug\net7.0\Azure.Identity.dll
+C:\CodePulse\API\CodePulse.API\CodePulse.API\bin\Debug\net7.0\Humanizer.dll
+C:\CodePulse\API\CodePulse.API\CodePulse.API\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\CodePulse\API\CodePulse.API\CodePulse.API\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\CodePulse\API\CodePulse.API\CodePulse.API\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\CodePulse\API\CodePulse.API\CodePulse.API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\CodePulse\API\CodePulse.API\CodePulse.API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\CodePulse\API\CodePulse.API\CodePulse.API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\CodePulse\API\CodePulse.API\CodePulse.API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\CodePulse\API\CodePulse.API\CodePulse.API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\CodePulse\API\CodePulse.API\CodePulse.API\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\CodePulse\API\CodePulse.API\CodePulse.API\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\CodePulse\API\CodePulse.API\CodePulse.API\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\CodePulse\API\CodePulse.API\CodePulse.API\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\CodePulse\API\CodePulse.API\CodePulse.API\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\CodePulse\API\CodePulse.API\CodePulse.API\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\CodePulse\API\CodePulse.API\CodePulse.API\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\CodePulse\API\CodePulse.API\CodePulse.API\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\CodePulse\API\CodePulse.API\CodePulse.API\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\CodePulse\API\CodePulse.API\CodePulse.API\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\CodePulse\API\CodePulse.API\CodePulse.API\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\CodePulse\API\CodePulse.API\CodePulse.API\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\CodePulse\API\CodePulse.API\CodePulse.API\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\CodePulse\API\CodePulse.API\CodePulse.API\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\CodePulse\API\CodePulse.API\CodePulse.API\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\CodePulse\API\CodePulse.API\CodePulse.API\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\CodePulse\API\CodePulse.API\CodePulse.API\bin\Debug\net7.0\System.CodeDom.dll
+C:\CodePulse\API\CodePulse.API\CodePulse.API\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\CodePulse\API\CodePulse.API\CodePulse.API\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\CodePulse\API\CodePulse.API\CodePulse.API\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\CodePulse\API\CodePulse.API\CodePulse.API\bin\Debug\net7.0\System.Memory.Data.dll
+C:\CodePulse\API\CodePulse.API\CodePulse.API\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\CodePulse\API\CodePulse.API\CodePulse.API\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\CodePulse\API\CodePulse.API\CodePulse.API\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\CodePulse\API\CodePulse.API\CodePulse.API\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\CodePulse\API\CodePulse.API\CodePulse.API\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\CodePulse\API\CodePulse.API\CodePulse.API\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\CodePulse\API\CodePulse.API\CodePulse.API\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\CodePulse\API\CodePulse.API\CodePulse.API\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\CodePulse\API\CodePulse.API\CodePulse.API\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\CodePulse\API\CodePulse.API\CodePulse.API\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\CodePulse\API\CodePulse.API\CodePulse.API\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\CodePulse\API\CodePulse.API\CodePulse.API\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\CodePulse\API\CodePulse.API\CodePulse.API\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\CodePulse\API\CodePulse.API\CodePulse.API\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\CodePulse\API\CodePulse.API\CodePulse.API\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\CodePulse\API\CodePulse.API\CodePulse.API\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\CodePulse\API\CodePulse.API\CodePulse.API\obj\Debug\net7.0\CodePulse.API.csproj.AssemblyReference.cache
+C:\CodePulse\API\CodePulse.API\CodePulse.API\obj\Debug\net7.0\CodePulse.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\CodePulse\API\CodePulse.API\CodePulse.API\obj\Debug\net7.0\CodePulse.API.AssemblyInfoInputs.cache
+C:\CodePulse\API\CodePulse.API\CodePulse.API\obj\Debug\net7.0\CodePulse.API.AssemblyInfo.cs
+C:\CodePulse\API\CodePulse.API\CodePulse.API\obj\Debug\net7.0\CodePulse.API.csproj.CoreCompileInputs.cache
+C:\CodePulse\API\CodePulse.API\CodePulse.API\obj\Debug\net7.0\CodePulse.API.MvcApplicationPartsAssemblyInfo.cs
+C:\CodePulse\API\CodePulse.API\CodePulse.API\obj\Debug\net7.0\CodePulse.API.MvcApplicationPartsAssemblyInfo.cache
+C:\CodePulse\API\CodePulse.API\CodePulse.API\obj\Debug\net7.0\staticwebassets.build.json
+C:\CodePulse\API\CodePulse.API\CodePulse.API\obj\Debug\net7.0\staticwebassets.development.json
+C:\CodePulse\API\CodePulse.API\CodePulse.API\obj\Debug\net7.0\staticwebassets\msbuild.CodePulse.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\CodePulse\API\CodePulse.API\CodePulse.API\obj\Debug\net7.0\staticwebassets\msbuild.build.CodePulse.API.props
+C:\CodePulse\API\CodePulse.API\CodePulse.API\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.CodePulse.API.props
+C:\CodePulse\API\CodePulse.API\CodePulse.API\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.CodePulse.API.props
+C:\CodePulse\API\CodePulse.API\CodePulse.API\obj\Debug\net7.0\staticwebassets.pack.json
+C:\CodePulse\API\CodePulse.API\CodePulse.API\obj\Debug\net7.0\scopedcss\bundle\CodePulse.API.styles.css
+C:\CodePulse\API\CodePulse.API\CodePulse.API\obj\Debug\net7.0\CodePulse.API.csproj.CopyComplete
+C:\CodePulse\API\CodePulse.API\CodePulse.API\obj\Debug\net7.0\CodePulse.API.dll
+C:\CodePulse\API\CodePulse.API\CodePulse.API\obj\Debug\net7.0\refint\CodePulse.API.dll
+C:\CodePulse\API\CodePulse.API\CodePulse.API\obj\Debug\net7.0\CodePulse.API.pdb
+C:\CodePulse\API\CodePulse.API\CodePulse.API\obj\Debug\net7.0\CodePulse.API.genruntimeconfig.cache
+C:\CodePulse\API\CodePulse.API\CodePulse.API\obj\Debug\net7.0\ref\CodePulse.API.dll
+C:\CodePulse\API\CodePulse.API\CodePulse.API\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\CodePulse\API\CodePulse.API\CodePulse.API\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\CodePulse\API\CodePulse.API\CodePulse.API\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\CodePulse\API\CodePulse.API\CodePulse.API\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\CodePulse\API\CodePulse.API\CodePulse.API\bin\Debug\net7.0\Microsoft.Extensions.Identity.Core.dll
+C:\CodePulse\API\CodePulse.API\CodePulse.API\bin\Debug\net7.0\Microsoft.Extensions.Identity.Stores.dll
+C:\CodePulse\API\CodePulse.API\CodePulse.API\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+C:\Users\kitti\OneDrive\เดสก์ท็อป\ฝึกงาน Gofive\CodePulse.API\CodePulse.API\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\kitti\OneDrive\เดสก์ท็อป\ฝึกงาน Gofive\CodePulse.API\CodePulse.API\bin\Debug\net7.0\appsettings.json
+C:\Users\kitti\OneDrive\เดสก์ท็อป\ฝึกงาน Gofive\CodePulse.API\CodePulse.API\bin\Debug\net7.0\CodePulse.API.exe
+C:\Users\kitti\OneDrive\เดสก์ท็อป\ฝึกงาน Gofive\CodePulse.API\CodePulse.API\bin\Debug\net7.0\CodePulse.API.deps.json
+C:\Users\kitti\OneDrive\เดสก์ท็อป\ฝึกงาน Gofive\CodePulse.API\CodePulse.API\bin\Debug\net7.0\CodePulse.API.runtimeconfig.json
+C:\Users\kitti\OneDrive\เดสก์ท็อป\ฝึกงาน Gofive\CodePulse.API\CodePulse.API\bin\Debug\net7.0\CodePulse.API.dll
+C:\Users\kitti\OneDrive\เดสก์ท็อป\ฝึกงาน Gofive\CodePulse.API\CodePulse.API\bin\Debug\net7.0\CodePulse.API.pdb
+C:\Users\kitti\OneDrive\เดสก์ท็อป\ฝึกงาน Gofive\CodePulse.API\CodePulse.API\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\kitti\OneDrive\เดสก์ท็อป\ฝึกงาน Gofive\CodePulse.API\CodePulse.API\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\kitti\OneDrive\เดสก์ท็อป\ฝึกงาน Gofive\CodePulse.API\CodePulse.API\bin\Debug\net7.0\Humanizer.dll
+C:\Users\kitti\OneDrive\เดสก์ท็อป\ฝึกงาน Gofive\CodePulse.API\CodePulse.API\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\kitti\OneDrive\เดสก์ท็อป\ฝึกงาน Gofive\CodePulse.API\CodePulse.API\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\kitti\OneDrive\เดสก์ท็อป\ฝึกงาน Gofive\CodePulse.API\CodePulse.API\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\kitti\OneDrive\เดสก์ท็อป\ฝึกงาน Gofive\CodePulse.API\CodePulse.API\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\kitti\OneDrive\เดสก์ท็อป\ฝึกงาน Gofive\CodePulse.API\CodePulse.API\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\kitti\OneDrive\เดสก์ท็อป\ฝึกงาน Gofive\CodePulse.API\CodePulse.API\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\kitti\OneDrive\เดสก์ท็อป\ฝึกงาน Gofive\CodePulse.API\CodePulse.API\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\kitti\OneDrive\เดสก์ท็อป\ฝึกงาน Gofive\CodePulse.API\CodePulse.API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\kitti\OneDrive\เดสก์ท็อป\ฝึกงาน Gofive\CodePulse.API\CodePulse.API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\kitti\OneDrive\เดสก์ท็อป\ฝึกงาน Gofive\CodePulse.API\CodePulse.API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\kitti\OneDrive\เดสก์ท็อป\ฝึกงาน Gofive\CodePulse.API\CodePulse.API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\kitti\OneDrive\เดสก์ท็อป\ฝึกงาน Gofive\CodePulse.API\CodePulse.API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\kitti\OneDrive\เดสก์ท็อป\ฝึกงาน Gofive\CodePulse.API\CodePulse.API\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\kitti\OneDrive\เดสก์ท็อป\ฝึกงาน Gofive\CodePulse.API\CodePulse.API\bin\Debug\net7.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\kitti\OneDrive\เดสก์ท็อป\ฝึกงาน Gofive\CodePulse.API\CodePulse.API\bin\Debug\net7.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\kitti\OneDrive\เดสก์ท็อป\ฝึกงาน Gofive\CodePulse.API\CodePulse.API\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+C:\Users\kitti\OneDrive\เดสก์ท็อป\ฝึกงาน Gofive\CodePulse.API\CodePulse.API\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\kitti\OneDrive\เดสก์ท็อป\ฝึกงาน Gofive\CodePulse.API\CodePulse.API\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\kitti\OneDrive\เดสก์ท็อป\ฝึกงาน Gofive\CodePulse.API\CodePulse.API\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\kitti\OneDrive\เดสก์ท็อป\ฝึกงาน Gofive\CodePulse.API\CodePulse.API\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\kitti\OneDrive\เดสก์ท็อป\ฝึกงาน Gofive\CodePulse.API\CodePulse.API\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\kitti\OneDrive\เดสก์ท็อป\ฝึกงาน Gofive\CodePulse.API\CodePulse.API\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\kitti\OneDrive\เดสก์ท็อป\ฝึกงาน Gofive\CodePulse.API\CodePulse.API\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\kitti\OneDrive\เดสก์ท็อป\ฝึกงาน Gofive\CodePulse.API\CodePulse.API\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\kitti\OneDrive\เดสก์ท็อป\ฝึกงาน Gofive\CodePulse.API\CodePulse.API\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\kitti\OneDrive\เดสก์ท็อป\ฝึกงาน Gofive\CodePulse.API\CodePulse.API\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\kitti\OneDrive\เดสก์ท็อป\ฝึกงาน Gofive\CodePulse.API\CodePulse.API\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\kitti\OneDrive\เดสก์ท็อป\ฝึกงาน Gofive\CodePulse.API\CodePulse.API\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\kitti\OneDrive\เดสก์ท็อป\ฝึกงาน Gofive\CodePulse.API\CodePulse.API\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\kitti\OneDrive\เดสก์ท็อป\ฝึกงาน Gofive\CodePulse.API\CodePulse.API\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\kitti\OneDrive\เดสก์ท็อป\ฝึกงาน Gofive\CodePulse.API\CodePulse.API\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\kitti\OneDrive\เดสก์ท็อป\ฝึกงาน Gofive\CodePulse.API\CodePulse.API\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\kitti\OneDrive\เดสก์ท็อป\ฝึกงาน Gofive\CodePulse.API\CodePulse.API\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\kitti\OneDrive\เดสก์ท็อป\ฝึกงาน Gofive\CodePulse.API\CodePulse.API\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\kitti\OneDrive\เดสก์ท็อป\ฝึกงาน Gofive\CodePulse.API\CodePulse.API\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\kitti\OneDrive\เดสก์ท็อป\ฝึกงาน Gofive\CodePulse.API\CodePulse.API\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\kitti\OneDrive\เดสก์ท็อป\ฝึกงาน Gofive\CodePulse.API\CodePulse.API\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\kitti\OneDrive\เดสก์ท็อป\ฝึกงาน Gofive\CodePulse.API\CodePulse.API\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\kitti\OneDrive\เดสก์ท็อป\ฝึกงาน Gofive\CodePulse.API\CodePulse.API\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\kitti\OneDrive\เดสก์ท็อป\ฝึกงาน Gofive\CodePulse.API\CodePulse.API\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\kitti\OneDrive\เดสก์ท็อป\ฝึกงาน Gofive\CodePulse.API\CodePulse.API\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\kitti\OneDrive\เดสก์ท็อป\ฝึกงาน Gofive\CodePulse.API\CodePulse.API\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\kitti\OneDrive\เดสก์ท็อป\ฝึกงาน Gofive\CodePulse.API\CodePulse.API\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\kitti\OneDrive\เดสก์ท็อป\ฝึกงาน Gofive\CodePulse.API\CodePulse.API\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\kitti\OneDrive\เดสก์ท็อป\ฝึกงาน Gofive\CodePulse.API\CodePulse.API\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\kitti\OneDrive\เดสก์ท็อป\ฝึกงาน Gofive\CodePulse.API\CodePulse.API\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\kitti\OneDrive\เดสก์ท็อป\ฝึกงาน Gofive\CodePulse.API\CodePulse.API\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\kitti\OneDrive\เดสก์ท็อป\ฝึกงาน Gofive\CodePulse.API\CodePulse.API\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\kitti\OneDrive\เดสก์ท็อป\ฝึกงาน Gofive\CodePulse.API\CodePulse.API\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\kitti\OneDrive\เดสก์ท็อป\ฝึกงาน Gofive\CodePulse.API\CodePulse.API\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\kitti\OneDrive\เดสก์ท็อป\ฝึกงาน Gofive\CodePulse.API\CodePulse.API\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\kitti\OneDrive\เดสก์ท็อป\ฝึกงาน Gofive\CodePulse.API\CodePulse.API\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\kitti\OneDrive\เดสก์ท็อป\ฝึกงาน Gofive\CodePulse.API\CodePulse.API\obj\Debug\net7.0\CodePulse.API.csproj.AssemblyReference.cache
+C:\Users\kitti\OneDrive\เดสก์ท็อป\ฝึกงาน Gofive\CodePulse.API\CodePulse.API\obj\Debug\net7.0\CodePulse.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kitti\OneDrive\เดสก์ท็อป\ฝึกงาน Gofive\CodePulse.API\CodePulse.API\obj\Debug\net7.0\CodePulse.API.AssemblyInfoInputs.cache
+C:\Users\kitti\OneDrive\เดสก์ท็อป\ฝึกงาน Gofive\CodePulse.API\CodePulse.API\obj\Debug\net7.0\CodePulse.API.AssemblyInfo.cs
+C:\Users\kitti\OneDrive\เดสก์ท็อป\ฝึกงาน Gofive\CodePulse.API\CodePulse.API\obj\Debug\net7.0\CodePulse.API.csproj.CoreCompileInputs.cache
+C:\Users\kitti\OneDrive\เดสก์ท็อป\ฝึกงาน Gofive\CodePulse.API\CodePulse.API\obj\Debug\net7.0\CodePulse.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\kitti\OneDrive\เดสก์ท็อป\ฝึกงาน Gofive\CodePulse.API\CodePulse.API\obj\Debug\net7.0\CodePulse.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\kitti\OneDrive\เดสก์ท็อป\ฝึกงาน Gofive\CodePulse.API\CodePulse.API\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\kitti\OneDrive\เดสก์ท็อป\ฝึกงาน Gofive\CodePulse.API\CodePulse.API\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\kitti\OneDrive\เดสก์ท็อป\ฝึกงาน Gofive\CodePulse.API\CodePulse.API\obj\Debug\net7.0\staticwebassets\msbuild.CodePulse.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\kitti\OneDrive\เดสก์ท็อป\ฝึกงาน Gofive\CodePulse.API\CodePulse.API\obj\Debug\net7.0\staticwebassets\msbuild.build.CodePulse.API.props
+C:\Users\kitti\OneDrive\เดสก์ท็อป\ฝึกงาน Gofive\CodePulse.API\CodePulse.API\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.CodePulse.API.props
+C:\Users\kitti\OneDrive\เดสก์ท็อป\ฝึกงาน Gofive\CodePulse.API\CodePulse.API\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.CodePulse.API.props
+C:\Users\kitti\OneDrive\เดสก์ท็อป\ฝึกงาน Gofive\CodePulse.API\CodePulse.API\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\kitti\OneDrive\เดสก์ท็อป\ฝึกงาน Gofive\CodePulse.API\CodePulse.API\obj\Debug\net7.0\scopedcss\bundle\CodePulse.API.styles.css
+C:\Users\kitti\OneDrive\เดสก์ท็อป\ฝึกงาน Gofive\CodePulse.API\CodePulse.API\obj\Debug\net7.0\CodePulse.API.csproj.CopyComplete
+C:\Users\kitti\OneDrive\เดสก์ท็อป\ฝึกงาน Gofive\CodePulse.API\CodePulse.API\obj\Debug\net7.0\CodePulse.API.dll
+C:\Users\kitti\OneDrive\เดสก์ท็อป\ฝึกงาน Gofive\CodePulse.API\CodePulse.API\obj\Debug\net7.0\refint\CodePulse.API.dll
+C:\Users\kitti\OneDrive\เดสก์ท็อป\ฝึกงาน Gofive\CodePulse.API\CodePulse.API\obj\Debug\net7.0\CodePulse.API.pdb
+C:\Users\kitti\OneDrive\เดสก์ท็อป\ฝึกงาน Gofive\CodePulse.API\CodePulse.API\obj\Debug\net7.0\CodePulse.API.genruntimeconfig.cache
+C:\Users\kitti\OneDrive\เดสก์ท็อป\ฝึกงาน Gofive\CodePulse.API\CodePulse.API\obj\Debug\net7.0\ref\CodePulse.API.dll
